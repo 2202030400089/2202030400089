@@ -1,0 +1,165 @@
+
+html {
+	font-size:62.5%;
+}
+* {
+	margin: 0;
+	padding: 0;
+}
+ul, li {
+	list-style: none;
+}
+input {
+	border: none;
+}
+body {
+  width: 151.2rem;
+}.macbook-pro-14-2-SQX {
+  box-sizing: border-box;
+  padding: 3.1rem 2rem 15.2rem 13rem;
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  background-color: #545454;
+  border-radius: 3rem;
+}
+.macbook-pro-14-2-SQX .image-4-wcB {
+  margin: 0rem 0rem 0.4rem 121.2rem;
+  width: 12.6rem;
+  height: 11.4rem;
+  cursor: pointer;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-boxb-S39 {
+  margin-bottom: 6.4rem;
+  box-sizing: border-box;
+  padding: 2.2rem 8.2rem 1.1rem 8.2rem;
+  width: 88.5rem;
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #000000;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  background-color: #d9d9d9;
+  border-radius: 3rem;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-nxqv-5M1 {
+  margin: 0rem 89.9rem 3.5rem 0rem;
+  width: calc(100% - 89.9rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-nxqv-5M1 .ellipse-1-Q8P {
+  margin-right: 4.4rem;
+  width: 14.5rem;
+  height: 11.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-nxqv-5M1 .manisha-Xyh {
+  margin-top: 1.6rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-ttow-Fuh {
+  margin: 0rem 101.6rem 2.7rem 0rem;
+  width: calc(100% - 101.6rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-ttow-Fuh .ellipse-2-bTm {
+  margin-right: 7.6rem;
+  width: 14.5rem;
+  height: 11.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-ttow-Fuh .rutu-jps {
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-yeso-Gpo {
+  margin-right: 102.1rem;
+  width: calc(100% - 102.1rem);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-yeso-Gpo .ellipse-3-opj {
+  margin-right: 7.6rem;
+  width: 14.5rem;
+  height: 11.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-yeso-Gpo .priti-MLT {
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-famt-h9R {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-famt-h9R .ellipse-4-3j5 {
+  margin: 2.7rem 6.2rem 0rem 0rem;
+  width: 14.5rem;
+  height: 11.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-famt-h9R .aysuhi-nRm {
+  margin: 2.7rem 22rem 0rem 0rem;
+  font-size: 6.4rem;
+  font-weight: 500;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.macbook-pro-14-2-SQX .auto-group-famt-h9R .make-more-connection-7D9 {
+  margin-bottom: 6.3rem;
+  cursor: pointer;
+  font-size: 6.4rem;
+  font-weight: 800;
+  line-height: 1.2125;
+  font-style: italic;
+  color: #ffffff;
+  font-family: Inter, 'Source Sans Pro';
+  white-space: nowrap;
+  flex-shrink: 0;
+}
